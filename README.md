@@ -1,5 +1,3 @@
-![Mapa conceptual - P�gina 1 (14)](https://github.com/user-attachments/assets/d5e65ca3-f912-41d3-b574-e5982c79e921)# Plataforma de Telemetría para Globos Estratosféricos con LoRa y MQTT
-
 Este repositorio contiene el proyecto de grado para optar al título de Licenciatura en Ingeniería Electrónica y de Sistemas de la Universidad Privada del Valle: **"Desarrollo de una Plataforma de Telemetría para la Carga Útil de Globos Estratosféricos Soportada en Redes Inalámbricas de Baja Potencia y Largo Alcance"**.
 
 **Autor:** Rodrigo Andres Murillo Murillo

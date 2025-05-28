@@ -97,5 +97,3 @@ El sistema se divide en tres bloques principales:
 *   Gráfico de Altitud/Presión/Temperatura (MPL3115A2)
 *   Mapa de Trayectoria (GPS)
 *   Panel de Administración de Lanzamientos
-
-## 📂 Estructura del Repositorio (Sugerida)

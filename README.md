@@ -1,4 +1,4 @@
-# Plataforma de Telemetría para Globos Estratosféricos con LoRa y MQTT
+![Mapa conceptual - P�gina 1 (14)](https://github.com/user-attachments/assets/d5e65ca3-f912-41d3-b574-e5982c79e921)# Plataforma de Telemetría para Globos Estratosféricos con LoRa y MQTT
 
 Este repositorio contiene el proyecto de grado para optar al título de Licenciatura en Ingeniería Electrónica y de Sistemas de la Universidad Privada del Valle: **"Desarrollo de una Plataforma de Telemetría para la Carga Útil de Globos Estratosféricos Soportada en Redes Inalámbricas de Baja Potencia y Largo Alcance"**.
 
@@ -75,7 +75,8 @@ El sistema se divide en tres bloques principales:
         *   Sirve la interfaz gráfica para visualización y administración.
     *   Base de Datos MySQL: Almacena datos de sensores, usuarios y lanzamientos.
 
-*(Diagrama simplificado de la arquitectura podría incluirse aquí si tienes uno)*
+![ArquitecturaChaskiWara](https://github.com/user-attachments/assets/bde2e7fe-5594-493b-9edc-d022a8029df1)
+
 
 ## 🚀 Cómo Funciona (Flujo de Datos)
 
@@ -88,8 +89,6 @@ El sistema se divide en tres bloques principales:
 7.  Los **usuarios** interactúan con la plataforma web para monitorizar misiones y administrar la plataforma.
 
 ## 🖼️ Vistas Previas (Screenshots)
-
-*(Se recomienda añadir aquí screenshots de los dashboards, el modelo 3D, los gráficos de datos históricos, etc.)*
 
 *   Dashboard de Datos en Vivo
 *   Modelo 3D del CubeSat

@@ -2,7 +2,7 @@ Este repositorio contiene el proyecto de grado para optar al título de Licencia
 
 **Autor:** Rodrigo Andres Murillo Murillo
 **Tutor:** Ing. Msc. Eynar Calle Viles
-**URL de la plataforma (demo):** [chaskiwara.online](http://chaskiwara.online) (si sigue activa)
+**URL de la plataforma (demo):** [chaskiwara.online](http://chaskiwara.online)
 
 ## 📝 Resumen del Proyecto
 
@@ -73,6 +73,7 @@ El sistema se divide en tres bloques principales:
         *   Sirve la interfaz gráfica para visualización y administración.
     *   Base de Datos MySQL: Almacena datos de sensores, usuarios y lanzamientos.
 
+**Diagrama de bloques de ChaskiWara**
 ![ArquitecturaChaskiWara](https://github.com/user-attachments/assets/bde2e7fe-5594-493b-9edc-d022a8029df1)
 
 
